@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Sawarabi+Mincho');
-
-* {
+{
     margin: 0;
     padding: 0;
 
-    font-family: 'Sawarabi Mincho', sans-serif;
+    font-family: 'Chalkduster','Lucida Console','HanziPen SC','Hannotate SC','メイリオ','Meiryo','ＭＳ ゴシック',sans-serif;
+    font-decoration:none ;
+    color:pink ;
 }
 
 .namecard {
