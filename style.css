@@ -25,7 +25,7 @@
 
 .name {
     /*文字の装飾*/
-    font-size: 4rem;
+    font-size: 2rem;
 
     /*微妙にずれてるのを修正*/
     margin-top: -0.5rem;
@@ -46,7 +46,7 @@
     margin-top: 3.5rem;
 
     /*装飾*/
-    font-size: 0.8rem;
+    font-size: 1.3rem;
 }
 
 .contact span {
