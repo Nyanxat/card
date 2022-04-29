@@ -41,6 +41,8 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
+    color: pink;
+    text-decoration: none;
 
     /*余白*/
     margin-top: 3.5rem;
